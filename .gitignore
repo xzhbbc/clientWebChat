@@ -1,0 +1,17 @@
+# node.js
+#
+server/node_modules
+server/npm-debug.log
+server/yarn-error.log
+
+# vue
+client/node_modules
+client/yarn-error.log
+client/npm-debug.log
+client/dist
+
+
+.idea
+
+# 数据库
+server/db
